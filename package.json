@@ -17,13 +17,13 @@
     "chalk": "^2.4.2",
     "cross-spawn": "^6.0.5",
     "ejs": "^2.7.4",
-    "inquirer": "^6.5.2",
+    "inquirer": "^8.2.0",
     "js-yaml": "^3.14.1",
     "lodash.isequal": "^4.5.0",
     "mkdirp": "^0.5.5",
     "openapi-template": "^1.0.1",
     "slugify": "^1.6.5",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^21.0.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
