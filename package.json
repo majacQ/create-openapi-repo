@@ -18,11 +18,20 @@
     "cross-spawn": "^6.0.5",
   <<<<<<< dependabot/npm_and_yarn/ajv-6.12.6
   <<<<<<< dependabot/npm_and_yarn/ajv-6.12.6
+  <<<<<<< dependabot/npm_and_yarn/ajv-6.12.6
+  =======
+  <<<<<<< dependabot/npm_and_yarn/acorn-6.4.2
+  <<<<<<< dependabot/npm_and_yarn/acorn-6.4.2
+  >>>>>>> main
     "ejs": "^2.7.4",
     "inquirer": "^8.2.0",
     "js-yaml": "^3.14.1",
     "lodash.isequal": "^4.5.0",
+  <<<<<<< dependabot/npm_and_yarn/ajv-6.12.6
     "mkdirp": "^1.0.4",
+  =======
+    "mkdirp": "^0.5.5",
+  >>>>>>> main
     "openapi-template": "^1.0.1",
     "slugify": "^1.6.5",
     "yargs-parser": "^21.0.1"
